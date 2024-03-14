@@ -1,5 +1,7 @@
 # Teste Técnico para Estágio na Target Sistemas
 
+**Para ver o teste técnico em produção, [clique aqui.](https://teste-tecnico-estagio-target-sistemas.vercel.app/)**
+
 ## Desafio 1
 
 **1) Observe o trecho de código abaixo:**
@@ -21,7 +23,9 @@ imprimir(SOMA);
 ```
 
 Ao final do processamento, qual será o valor da variável SOMA?
+
 **Resposta: 91**
+
 **Solução em Código: [clique aqui.](./assets/js/challenges/sum.js)**
 
 ## Desafio 2
@@ -41,21 +45,27 @@ Esse número pode ser informado através de qualquer entrada de sua preferência
 **3. Descubra a lógica e complete o próximo elemento:**
 
 a) 1, 3, 5, 7, \_\_\_
+
 **Resposta: 9. Explicação: Esta sequência está aumentando de 2 em 2 cada vez.**
 
 b) 2, 4, 8, 16, 32, 64, \_\_\_\_
+
 **Resposta: 128. Explicação: Esta sequência está dobrando a cada vez.**
 
 c) 0, 1, 4, 9, 16, 25, 36, \_\_\_\_
+
 **Resposta: 49. Explicação: Esta sequência são os quadrados dos números naturais começando do 0.**
 
 d) 4, 16, 36, 64, \_\_\_\_
+
 **Resposta: 100. Explicação: Esta sequência são os quadrados dos números pares começando do 2.**
 
 e) 1, 1, 2, 3, 5, 8, \_\_\_\_
+
 **Resposta: 13. Explicação: Esta sequência é conhecida como a sequência de Fibonacci.**
 
 f) 2,10, 12, 16, 17, 18, 19, \_\_\_\_
+
 **Resposta: 20. Explicação: Esta sequência começa adicionando 8, depois adiciona 2, adiciona 4, adiciona 1, adiciona 1 e adiciona 1.**
 
 **Solução em Código: [clique aqui.](./assets/js/challenges/completeTheNextElement.js)**
