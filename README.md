@@ -104,4 +104,4 @@ a) Essa string pode ser informada através de qualquer entrada de sua preferênc
 
 b) Evite usar funções prontas, como, por exemplo, reverse;
 
-**Solução em Código: [clique aqui.](./assets/js/challenges/invertWord.js)**
+**Solução em Código: [clique aqui.](./assets/js/challenges/invertString.js)**
